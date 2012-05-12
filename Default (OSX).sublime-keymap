@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["f8"],
+        "command": "sublime_colors"
+    }
+]
