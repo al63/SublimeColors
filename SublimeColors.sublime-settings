@@ -1,3 +1,26 @@
 {
-    "schemes": ["Monokai", "Solarized (Dark)", "Solarized (Light)"]
+  "schemes": [
+    "All Hallow's Eve",
+    "Amy",
+    "Blackboard",
+    "Cobalt",
+    "Dawn",
+    "Eiffel",
+    "Espresso Libre",
+    "IDLE",
+    "LAZY",
+    "Mac Classic",
+    "MagicWB (Amiga)",
+    "Monokai Bright",
+    "Monokai",
+    "Pastels on Dark",
+    "Slush & Poppies",
+    "Solarized (Dark)",
+    "Solarized (Light)",
+    "SpaceCadet",
+    "Sunburst",
+    "Twilight",
+    "Zenburnesque",
+    "iPlastic"
+  ]
 }

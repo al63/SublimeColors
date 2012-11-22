@@ -1,6 +1,6 @@
 [
     {
-        "keys": ["f8"],
+        "keys": ["ctrl+c"],
         "command": "sublime_colors"
     }
 ]
